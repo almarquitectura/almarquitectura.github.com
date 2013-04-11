@@ -12,4 +12,4 @@ Prose.io es una herramienta especialmente diseñada para editar contenido en jek
 Para acceder a prose.io hay que indicar las credenciales de GitHub, a continuación elegir el repositorio que deseamos modificar y comenzar a añadir o modificar posts de nuestro blog.
 
 
-texto de prueba
+hola
